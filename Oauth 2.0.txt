@@ -1,0 +1,13 @@
+https://login.microsoftonline.com/common/oauth2/v2.0/authorize
+
+?client_id=583eb763-9859-4c54-9860-56302776f1a0
+
+&scope=https%3A%2F%2Fgraph.microsoft.com%2Fuser.read
+
+&response_type=code
+
+&redirect_uri=https%3A%2F%2Flms.godeploy.it%2Fsignin-microsoft
+
+&state=5gI1TG9J7WOzwvd8r37oGxbbZz1c_HMCBVxYldh3NdKHW5W3IzXh1pIg9nfyi_EXt246pxpgmyJLEuM8b5ub-we-ZuKSBMyJ8Tbirtle41nR3I7HPlb7_qR-snPFd9EmTUXqjfNtb_q6jlGS5t0g6tsneqM8EFOS67O6fbMpuViwuwYSqtDl9VeaZHJGIwF8MDel266M1-bkdso-K6BexE_twH5qe_CmdcbEn9smD1o
+
+&sso_reload=true
